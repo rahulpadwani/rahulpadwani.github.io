@@ -20,4 +20,4 @@ Intelligence, Data Visualization.<br>
 - Deep Learning and Gen AI         
 
 <!--- Adding language github stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpadwani-S&layout=compact&hide=jupyter%20notebook,SCSS,HCL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpadwani&layout=compact&hide=jupyter%20notebook,SCSS,HCL)](https://github.com/anuraghazra/github-readme-stats)
