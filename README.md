@@ -14,14 +14,35 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpadwani&layout=compact&hide=jupyter%20notebook,SCSS,HCL)](https://github.com/anuraghazra/github-readme-stats)
  <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
 <br>
 🙋‍♂️ Reach out:
 <br>
 
 
 </p>
+
 - 🎯 Portfolio website: [Portfolio](https://rahulpadwani.github.io/Portfolio/) 
 - 💬 Ask me about anything, I am happy to help and will try my best :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/rahulpadwani/)
-<p>
-0 commit commentsComments0 (0)Comment
+
+<br>
+
+<!-- Profile Views -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rahulpadwani&label=Profile%20views&color=blue&style=flat" alt="rahulpadwani" />
+</p>
+<!--
+**rahulpadwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
