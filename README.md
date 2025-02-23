@@ -10,17 +10,18 @@
 - Competencies: Python, SQL, Exploratory Data Analysis, ETL/ELT, Data Warehousing, Google Big Query, ApacheSpark, Data Analytics, Advanced Analytics, Linear Regression, Logistic Regression, Decision Trees, Random Forests,Support Vector Machines, ARIMA, Prophet, Text Processing, Predictive Modeling, Optimization, RecommendationSystems, Natural Language Processing, Statistics, Generative AI, LLM, Hypothesis testing, A/B testing, BusinessIntelligence, Data Visualization.<br><br><br>💻 Currently Learning:- React & Tailwind           
 
 - Deep Learning and Gen AI
-- <!--- Adding language github stats-->
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpadwani&layout=compact&hide=jupyter%20notebook,SCSS,HCL)](https://github.com/anuraghazra/github-readme-stats)
-- <!-- code gif-->
-- <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+ <!--- Adding language github stats-->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpadwani&layout=compact&hide=jupyter%20notebook,SCSS,HCL)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 <br>
 🙋‍♂️ Reach out:
 <br>
 
 
-</p>- 🎯 Portfolio website: [Portfolio](https://rahulpadwani.github.io/Portfolio/)- 
-💬 Ask me about anything, I am happy to help and will try my best :smile:- 
-📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/rahulpadwani/)
+</p>
+- 🎯 Portfolio website: [Portfolio](https://rahulpadwani.github.io/Portfolio/) 
+- 💬 Ask me about anything, I am happy to help and will try my best :smile:
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/rahulpadwani/)
 <br>
 0 commit commentsComments0 (0)Comment
