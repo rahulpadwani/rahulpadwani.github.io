@@ -23,5 +23,5 @@
 - 🎯 Portfolio website: [Portfolio](https://rahulpadwani.github.io/Portfolio/) 
 - 💬 Ask me about anything, I am happy to help and will try my best :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/rahulpadwani/)
-<br>
+<p>
 0 commit commentsComments0 (0)Comment
