@@ -14,6 +14,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpadwani&layout=compact&hide=jupyter%20notebook,SCSS,HCL)](https://github.com/anuraghazra/github-readme-stats)
  <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+![Hiring-Data-Scientists](https://github.com/user-attachments/assets/36f81f8c-a611-48d6-8aab-185c74a2947f)
+
 
 <br>
 🙋‍♂️ Reach out:
